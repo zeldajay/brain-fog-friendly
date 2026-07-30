@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Brain Fog Friendly</title>
+  <desc id="desc">A calm README hero showing Brain Fog Friendly as a Claude Code output-style plugin for short, gentle, step-by-step responses in eight languages.</desc>
+
+  <defs>
+    <linearGradient id="softPanel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F5F1EA"/>
+    </linearGradient>
+    <linearGradient id="mint" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#B8E6D4"/>
+      <stop offset="1" stop-color="#8FCFB9"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#243028" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="30" fill="#F8F3EA"/>
+  <path d="M0 348 C170 320 248 382 390 354 C548 323 596 254 762 284 C927 314 1012 364 1200 326 L1200 420 L0 420 Z" fill="#E6F3EC" opacity="0.72"/>
+
+  <g id="title-block" transform="translate(64 58)">
+    <rect x="0" y="0" width="168" height="34" rx="17" fill="#E8E1F4"/>
+    <text x="20" y="23" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" fill="#55496B" letter-spacing="1.4">CLAUDE CODE PLUGIN</text>
+
+    <text x="0" y="98" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="64" font-weight="760" fill="#243028">Brain Fog</text>
+    <text x="0" y="166" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="64" font-weight="760" fill="#243028">Friendly</text>
+
+    <text x="0" y="222" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="25" font-weight="520" fill="#4B5A52">Low-cognitive-load output styles</text>
+    <text x="0" y="257" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="25" font-weight="520" fill="#4B5A52">for short, gentle, step-by-step help.</text>
+
+    <g transform="translate(0 300)">
+      <rect x="0" y="0" width="150" height="42" rx="21" fill="#243028"/>
+      <text x="24" y="27" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="18" font-weight="680" fill="#FFFFFF">8 languages</text>
+      <rect x="166" y="0" width="178" height="42" rx="21" fill="#FFFFFF" stroke="#D8D0C4"/>
+      <text x="190" y="27" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="18" font-weight="650" fill="#3E4A43">one small step</text>
+    </g>
+  </g>
+
+  <g id="calm-flow" transform="translate(612 48)">
+    <rect x="0" y="0" width="524" height="324" rx="28" fill="url(#softPanel)" filter="url(#softShadow)"/>
+
+    <g transform="translate(36 34)">
+      <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" fill="#7B6F62">OUTPUT STYLE</text>
+      <text x="0" y="38" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="28" font-weight="720" fill="#243028">Less to hold in your head</text>
+    </g>
+
+    <g transform="translate(36 102)">
+      <g>
+        <circle cx="18" cy="18" r="18" fill="url(#mint)"/>
+        <text x="13" y="25" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="700" fill="#243028">1</text>
+        <text x="56" y="25" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="23" font-weight="650" fill="#243028">Conclusion first</text>
+      </g>
+      <g transform="translate(0 64)">
+        <circle cx="18" cy="18" r="18" fill="#E8E1F4"/>
+        <text x="13" y="25" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="700" fill="#55496B">2</text>
+        <text x="56" y="25" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="23" font-weight="650" fill="#243028">Short sentences</text>
+      </g>
+      <g transform="translate(0 128)">
+        <circle cx="18" cy="18" r="18" fill="#F3D3BE"/>
+        <text x="13" y="25" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="700" fill="#6B4938">3</text>
+        <text x="56" y="25" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="23" font-weight="650" fill="#243028">Next tiny action</text>
+      </g>
+    </g>
+
+    <g transform="translate(326 96)">
+      <rect x="0" y="0" width="150" height="42" rx="14" fill="#FFFFFF" stroke="#D8D0C4"/>
+      <text x="18" y="27" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="18" font-weight="680" fill="#243028">English</text>
+      <rect x="-18" y="55" width="168" height="42" rx="14" fill="#FFFFFF" stroke="#D8D0C4"/>
+      <text x="0" y="83" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="18" font-weight="680" fill="#243028">脑雾友好</text>
+      <rect x="0" y="110" width="150" height="42" rx="14" fill="#FFFFFF" stroke="#D8D0C4"/>
+      <text x="18" y="137" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="18" font-weight="680" fill="#243028">日本語</text>
+      <rect x="-18" y="165" width="168" height="42" rx="14" fill="#FFFFFF" stroke="#D8D0C4"/>
+      <text x="0" y="193" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="18" font-weight="680" fill="#243028">Português</text>
+    </g>
+  </g>
+</svg>
