@@ -11,18 +11,23 @@ It is designed for people with brain fog, attention difficulty, fatigue, overwhe
 
 ## Install
 
-From this repository directory:
+Add this repository as a marketplace:
 
 ```bash
-claude plugin install .
+claude plugin marketplace add <this-repository-url>
 ```
 
-Or install from a cloned copy:
+Then install the plugin:
 
 ```bash
-git clone <this-repository-url>
-cd brain-fog-friendly
-claude plugin install .
+claude plugin install brain-fog-friendly@brain-fog-friendly-marketplace
+```
+
+For local development:
+
+```bash
+claude plugin marketplace add .
+claude plugin install brain-fog-friendly@brain-fog-friendly-marketplace
 ```
 
 ## Use
@@ -54,6 +59,7 @@ It asks Claude to:
 
 ```bash
 claude plugin validate .
+claude plugin validate ./output-style
 ```
 
 ## License
