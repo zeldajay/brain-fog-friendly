@@ -20,7 +20,7 @@ It is designed for people with brain fog, attention difficulty, fatigue, overwhe
 Add this repository as a marketplace:
 
 ```bash
-claude plugin marketplace add <this-repository-url>
+claude plugin marketplace add zeldajay/brain-fog-friendly
 ```
 
 Then install the plugin:
@@ -38,10 +38,10 @@ claude plugin install brain-fog-friendly@brain-fog-friendly-marketplace
 
 ## Use
 
-In Claude Code, select the output style:
+In Claude Code, select the output style with `/config`. This replaces the older `/output-style` command.
 
 ```text
-/output-style
+/config
 ```
 
 Then choose one of:
