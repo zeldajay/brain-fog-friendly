@@ -8,6 +8,10 @@
     "name": "zeldajay"
   },
   "license": "MIT",
+  "outputStyles": [
+    "./brain-fog-friendly.md",
+    "./脑雾友好.md"
+  ],
   "keywords": [
     "output-style",
     "accessibility",

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "brain-fog-friendly-marketplace",
+  "description": "A Claude Code marketplace for low-cognitive-load output styles.",
+  "owner": {
+    "name": "zeldajay"
+  },
+  "plugins": [
+    {
+      "name": "brain-fog-friendly",
+      "source": "./output-styles/brain-fog-friendly"
+    }
+  ]
+}
