@@ -1,23 +1,45 @@
+<p align="center">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Brain Fog Friendly is a Claude Code plugin for short, gentle, step-by-step output styles in eight languages.">
+</p>
+
 # Brain Fog Friendly
 
-A Claude Code marketplace plugin with low-cognitive-load output styles.
+A Claude Code marketplace plugin for low-cognitive-load output styles.
 
-It is designed for people with brain fog, attention difficulty, fatigue, overwhelm, or anyone who prefers short, gentle, step-by-step responses.
+It helps Claude answer with less pressure, less density, and clearer next steps.
 
-## Included output styles
+It is for people with brain fog, attention difficulty, fatigue, overwhelm, or anyone who prefers calm, step-by-step replies.
 
-- `Brain Fog Friendly` — English version
-- `脑雾友好` — Chinese version
-- `ブレインフォグにやさしい` — Japanese version
-- `브레인 포그 친화적` — Korean version
-- `Amigable para la niebla mental` — Spanish version
-- `Adapté au brouillard cérébral` — French version
-- `Brain-Fog-freundlich` — German version
-- `Amigável para névoa mental` — Brazilian Portuguese version
+## What you get
+
+Eight localized output styles:
+
+| Language | Output style |
+| --- | --- |
+| English | `Brain Fog Friendly` |
+| 中文 | `脑雾友好` |
+| 日本語 | `ブレインフォグにやさしい` |
+| 한국어 | `브레인 포그 친화적` |
+| Español | `Amigable para la niebla mental` |
+| Français | `Adapté au brouillard cérébral` |
+| Deutsch | `Brain-Fog-freundlich` |
+| Português do Brasil | `Amigável para névoa mental` |
+
+## What the style changes
+
+It asks Claude to:
+
+- put the conclusion and next step first
+- use short sentences
+- use short paragraphs
+- reduce cognitive load
+- move one small step at a time
+- avoid pressure, judgment, and too many options
+- offer simple choices when the user is stuck: continue, simplify, or pause
 
 ## Install
 
-Add this repository as a marketplace:
+Add this repository as a Claude Code marketplace:
 
 ```bash
 claude plugin marketplace add zeldajay/brain-fog-friendly
@@ -29,45 +51,31 @@ Then install the plugin:
 claude plugin install brain-fog-friendly@brain-fog-friendly-marketplace
 ```
 
-For local development:
-
-```bash
-claude plugin marketplace add .
-claude plugin install brain-fog-friendly@brain-fog-friendly-marketplace
-```
-
 ## Use
 
-In Claude Code, select the output style with `/config`. This replaces the older `/output-style` command.
+Open Claude Code config:
 
 ```text
 /config
 ```
 
-Then choose one of:
+Then choose one of the Brain Fog Friendly output styles.
 
-- `Brain Fog Friendly`
-- `脑雾友好`
-- `ブレインフォグにやさしい`
-- `브레인 포그 친화적`
-- `Amigable para la niebla mental`
-- `Adapté au brouillard cérébral`
-- `Brain-Fog-freundlich`
-- `Amigável para névoa mental`
+## Local development
 
-## What this style does
+Add this repository as a local marketplace:
 
-It asks Claude to:
+```bash
+claude plugin marketplace add .
+```
 
-- use short sentences
-- use short paragraphs
-- reduce cognitive load
-- move one small step at a time
-- put the conclusion and next step first
-- avoid pressure, judgment, and too many options
-- offer simple choices when the user is stuck
+Install from the local marketplace:
 
-## Validate
+```bash
+claude plugin install brain-fog-friendly@brain-fog-friendly-marketplace
+```
+
+Validate the plugin:
 
 ```bash
 claude plugin validate .
