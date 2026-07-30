@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "brain-fog-friendly",
+  "displayName": "Brain Fog Friendly",
+  "version": "1.0.0",
+  "description": "Low-cognitive-load output styles for people with brain fog, attention difficulty, or fatigue.",
+  "author": {
+    "name": "zeldajay"
+  },
+  "license": "MIT",
+  "keywords": [
+    "output-style",
+    "accessibility",
+    "brain-fog",
+    "low-cognitive-load"
+  ]
+}
