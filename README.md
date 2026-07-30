@@ -6,8 +6,14 @@ It is designed for people with brain fog, attention difficulty, fatigue, overwhe
 
 ## Included output styles
 
-- `脑雾友好` — Chinese version
 - `Brain Fog Friendly` — English version
+- `脑雾友好` — Chinese version
+- `ブレインフォグにやさしい` — Japanese version
+- `브레인 포그 친화적` — Korean version
+- `Amigable para la niebla mental` — Spanish version
+- `Adapté au brouillard cérébral` — French version
+- `Brain-Fog-freundlich` — German version
+- `Amigável para névoa mental` — Brazilian Portuguese version
 
 ## Install
 
@@ -38,10 +44,16 @@ In Claude Code, select the output style:
 /output-style
 ```
 
-Then choose either:
+Then choose one of:
 
-- `脑雾友好`
 - `Brain Fog Friendly`
+- `脑雾友好`
+- `ブレインフォグにやさしい`
+- `브레인 포그 친화적`
+- `Amigable para la niebla mental`
+- `Adapté au brouillard cérébral`
+- `Brain-Fog-freundlich`
+- `Amigável para névoa mental`
 
 ## What this style does
 
@@ -59,7 +71,7 @@ It asks Claude to:
 
 ```bash
 claude plugin validate .
-claude plugin validate ./output-style
+claude plugin validate ./output-styles/brain-fog-friendly
 ```
 
 ## License

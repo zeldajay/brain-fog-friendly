@@ -9,8 +9,14 @@
   },
   "license": "MIT",
   "outputStyles": [
-    "./brain-fog-friendly.md",
-    "./脑雾友好.md"
+    "./brain-fog-friendly-en.md",
+    "./brain-fog-friendly-zh-cn.md",
+    "./brain-fog-friendly-ja.md",
+    "./brain-fog-friendly-ko.md",
+    "./brain-fog-friendly-es.md",
+    "./brain-fog-friendly-fr.md",
+    "./brain-fog-friendly-de.md",
+    "./brain-fog-friendly-pt-br.md"
   ],
   "keywords": [
     "output-style",

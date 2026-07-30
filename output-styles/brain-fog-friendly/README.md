@@ -8,8 +8,14 @@ It is designed for people with brain fog, attention difficulty, fatigue, overwhe
 
 This plugin keeps output style files in the `output-styles/` directory:
 
-- `脑雾友好.md` — Chinese version
-- `brain-fog-friendly.md` — English version
+- `brain-fog-friendly-en.md` — English version
+- `brain-fog-friendly-zh-cn.md` — Chinese version
+- `brain-fog-friendly-ja.md` — Japanese version
+- `brain-fog-friendly-ko.md` — Korean version
+- `brain-fog-friendly-es.md` — Spanish version
+- `brain-fog-friendly-fr.md` — French version
+- `brain-fog-friendly-de.md` — German version
+- `brain-fog-friendly-pt-br.md` — Brazilian Portuguese version
 
 ## Use
 
@@ -19,10 +25,16 @@ In Claude Code, open config:
 /config
 ```
 
-Then configure the output style and choose either:
+Then configure the output style and choose one of:
 
-- `脑雾友好`
 - `Brain Fog Friendly`
+- `脑雾友好`
+- `ブレインフォグにやさしい`
+- `브레인 포그 친화적`
+- `Amigable para la niebla mental`
+- `Adapté au brouillard cérébral`
+- `Brain-Fog-freundlich`
+- `Amigável para névoa mental`
 
 ## What this style does
 
