@@ -12,6 +12,7 @@ This plugin keeps output style files in the `output-styles/` directory:
 - `brain-fog-friendly-zh-cn.md` — Chinese version
 - `brain-fog-friendly-ja.md` — Japanese version
 - `brain-fog-friendly-ru.md` — Russian version
+- `brain-fog-friendly-ar.md` — Arabic version
 - `brain-fog-friendly-ko.md` — Korean version
 - `brain-fog-friendly-es.md` — Spanish version
 - `brain-fog-friendly-fr.md` — French version
@@ -32,6 +33,7 @@ Then configure the output style and choose one of:
 - `脑雾友好`
 - `ブレインフォグにやさしい`
 - `Дружелюбный к мозговому туману`
+- `صديق لضباب الدماغ`
 - `브레인 포그 친화적`
 - `Amigable para la niebla mental`
 - `Adapté au brouillard cérébral`

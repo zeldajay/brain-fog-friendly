@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Brain Fog Friendly is a Claude Code plugin for short, gentle, step-by-step output styles in nine languages.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Brain Fog Friendly is a Claude Code plugin for short, gentle, step-by-step output styles in ten languages.">
 </p>
 
 # Brain Fog Friendly
@@ -12,7 +12,7 @@ It is for people with brain fog, attention difficulty, fatigue, overwhelm, or an
 
 ## What you get
 
-Nine localized output styles:
+Ten localized output styles:
 
 | Language | Output style |
 | --- | --- |
@@ -20,6 +20,7 @@ Nine localized output styles:
 | 中文 | `脑雾友好` |
 | 日本語 | `ブレインフォグにやさしい` |
 | Русский | `Дружелюбный к мозговому туману` |
+| العربية | `صديق لضباب الدماغ` |
 | 한국어 | `브레인 포그 친화적` |
 | Español | `Amigable para la niebla mental` |
 | Français | `Adapté au brouillard cérébral` |
