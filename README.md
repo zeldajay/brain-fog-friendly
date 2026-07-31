@@ -4,6 +4,8 @@
 
 # Brain Fog Friendly
 
+English | [中文](./assets/readme/README.zh-CN.md) | [日本語](./assets/readme/README.ja.md) | [Русский](./assets/readme/README.ru.md) | [العربية](./assets/readme/README.ar.md) | [한국어](./assets/readme/README.ko.md) | [Español](./assets/readme/README.es.md) | [Français](./assets/readme/README.fr.md) | [Deutsch](./assets/readme/README.de.md) | [Português do Brasil](./assets/readme/README.pt-BR.md)
+
 A Claude Code marketplace plugin for low-cognitive-load output styles.
 
 It helps Claude answer with less pressure, less density, and clearer next steps.
