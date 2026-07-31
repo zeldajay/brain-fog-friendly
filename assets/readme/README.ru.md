@@ -2,7 +2,7 @@
   <img src="./hero.svg" width="100%" alt="Brain Fog Friendly — плагин Claude Code для коротких, мягких, пошаговых стилей ответа на десяти языках.">
 </p>
 
-# Brain Fog Friendly
+# Дружелюбный к мозговому туману
 
 [English](../../README.md) | [中文](./README.zh-CN.md) | [日本語](./README.ja.md) | Русский | [العربية](./README.ar.md) | [한국어](./README.ko.md) | [Español](./README.es.md) | [Français](./README.fr.md) | [Deutsch](./README.de.md) | [Português do Brasil](./README.pt-BR.md)
 

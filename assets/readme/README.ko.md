@@ -2,7 +2,7 @@
   <img src="./hero.svg" width="100%" alt="Brain Fog Friendly는 열 가지 언어로 짧고 부드러운 단계별 출력 스타일을 제공하는 Claude Code 플러그인입니다.">
 </p>
 
-# Brain Fog Friendly
+# 브레인 포그 친화적
 
 [English](../../README.md) | [中文](./README.zh-CN.md) | [日本語](./README.ja.md) | [Русский](./README.ru.md) | [العربية](./README.ar.md) | 한국어 | [Español](./README.es.md) | [Français](./README.fr.md) | [Deutsch](./README.de.md) | [Português do Brasil](./README.pt-BR.md)
 

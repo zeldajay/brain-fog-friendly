@@ -2,7 +2,7 @@
   <img src="./hero.svg" width="100%" alt="Brain Fog Friendly é um plugin do Claude Code para estilos de resposta curtos, gentis e passo a passo em dez idiomas.">
 </p>
 
-# Brain Fog Friendly
+# Amigável para névoa mental
 
 [English](../../README.md) | [中文](./README.zh-CN.md) | [日本語](./README.ja.md) | [Русский](./README.ru.md) | [العربية](./README.ar.md) | [한국어](./README.ko.md) | [Español](./README.es.md) | [Français](./README.fr.md) | [Deutsch](./README.de.md) | Português do Brasil
 
