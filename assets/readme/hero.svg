@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
   <title id="title">Brain Fog Friendly</title>
-  <desc id="desc">A calm README hero showing Brain Fog Friendly as a Claude Code output-style plugin for short, gentle, step-by-step responses in eight languages.</desc>
+  <desc id="desc">A calm README hero showing Brain Fog Friendly as a Claude Code output-style plugin for short, gentle, step-by-step responses in nine languages.</desc>
 
   <defs>
     <linearGradient id="softPanel" x1="0" y1="0" x2="1" y2="1">
@@ -31,7 +31,7 @@
 
     <g transform="translate(0 300)">
       <rect x="0" y="0" width="150" height="42" rx="21" fill="#243028"/>
-      <text x="24" y="27" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="18" font-weight="680" fill="#FFFFFF">8 languages</text>
+      <text x="24" y="27" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="18" font-weight="680" fill="#FFFFFF">9 languages</text>
       <rect x="166" y="0" width="178" height="42" rx="21" fill="#FFFFFF" stroke="#D8D0C4"/>
       <text x="190" y="27" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="18" font-weight="650" fill="#3E4A43">one small step</text>
     </g>
@@ -69,7 +69,7 @@
       <rect x="-18" y="55" width="168" height="42" rx="14" fill="#FFFFFF" stroke="#D8D0C4"/>
       <text x="0" y="83" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="18" font-weight="680" fill="#243028">脑雾友好</text>
       <rect x="0" y="110" width="150" height="42" rx="14" fill="#FFFFFF" stroke="#D8D0C4"/>
-      <text x="18" y="137" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="18" font-weight="680" fill="#243028">日本語</text>
+      <text x="18" y="137" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="18" font-weight="680" fill="#243028">Русский</text>
       <rect x="-18" y="165" width="168" height="42" rx="14" fill="#FFFFFF" stroke="#D8D0C4"/>
       <text x="0" y="193" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="18" font-weight="680" fill="#243028">Português</text>
     </g>
