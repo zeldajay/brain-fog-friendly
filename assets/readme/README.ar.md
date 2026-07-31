@@ -2,7 +2,7 @@
   <img src="./hero.svg" width="100%" alt="Brain Fog Friendly هو إضافة Claude Code لأساليب إخراج قصيرة ولطيفة وخطوة بخطوة بعشر لغات.">
 </p>
 
-# Brain Fog Friendly
+# صديق لضباب الدماغ
 
 [English](../../README.md) | [中文](./README.zh-CN.md) | [日本語](./README.ja.md) | [Русский](./README.ru.md) | العربية | [한국어](./README.ko.md) | [Español](./README.es.md) | [Français](./README.fr.md) | [Deutsch](./README.de.md) | [Português do Brasil](./README.pt-BR.md)
 

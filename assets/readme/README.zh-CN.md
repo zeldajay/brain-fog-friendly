@@ -2,7 +2,7 @@
   <img src="./hero.svg" width="100%" alt="Brain Fog Friendly 是一个 Claude Code 插件，提供十种语言的简短、温和、分步骤输出风格。">
 </p>
 
-# Brain Fog Friendly
+# 脑雾友好
 
 [English](../../README.md) | 中文 | [日本語](./README.ja.md) | [Русский](./README.ru.md) | [العربية](./README.ar.md) | [한국어](./README.ko.md) | [Español](./README.es.md) | [Français](./README.fr.md) | [Deutsch](./README.de.md) | [Português do Brasil](./README.pt-BR.md)
 

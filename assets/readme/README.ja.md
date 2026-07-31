@@ -2,7 +2,7 @@
   <img src="./hero.svg" width="100%" alt="Brain Fog Friendly は、短く、穏やかで、段階的な出力スタイルを十言語で提供する Claude Code プラグインです。">
 </p>
 
-# Brain Fog Friendly
+# ブレインフォグにやさしい
 
 [English](../../README.md) | [中文](./README.zh-CN.md) | 日本語 | [Русский](./README.ru.md) | [العربية](./README.ar.md) | [한국어](./README.ko.md) | [Español](./README.es.md) | [Français](./README.fr.md) | [Deutsch](./README.de.md) | [Português do Brasil](./README.pt-BR.md)
 
