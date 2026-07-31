@@ -63,7 +63,13 @@ Abra a configuração do Claude Code:
 /config
 ```
 
-Depois escolha um dos estilos de saída Brain Fog Friendly.
+Depois:
+
+1. Encontre a configuração `Output style` (estilo de saída).
+2. Pressione Enter para abrir a lista de estilos de saída.
+3. Use as setas para ir até um dos estilos Brain Fog Friendly (por exemplo `Brain Fog Friendly` ou `Amigável para névoa mental`).
+4. Pressione Enter para selecioná-lo.
+5. Pressione Esc para sair da configuração. O estilo agora está ativo.
 
 ## Desenvolvimento local
 
