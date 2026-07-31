@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.0
+
+- Added Arabic output style: `صديق لضباب الدماغ`.
+- Added Russian output style: `Дружелюбный к мозговому туману`.
+
 ## 1.0.0
 
 - Initial marketplace plugin release.
