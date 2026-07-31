@@ -63,7 +63,13 @@ claude plugin install brain-fog-friendly@brain-fog-friendly-marketplace
 /config
 ```
 
-Затем выберите один из стилей Brain Fog Friendly.
+Затем:
+
+1. Найдите настройку `Output style` (стиль вывода).
+2. Нажмите Enter, чтобы открыть список стилей вывода.
+3. Стрелками перейдите к одному из стилей Brain Fog Friendly (например, `Brain Fog Friendly` или `Дружелюбный к мозговому туману`).
+4. Нажмите Enter, чтобы выбрать его.
+5. Нажмите Esc, чтобы выйти из настроек. Стиль теперь активен.
 
 ## Локальная разработка
 

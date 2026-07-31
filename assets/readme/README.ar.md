@@ -63,7 +63,13 @@ claude plugin install brain-fog-friendly@brain-fog-friendly-marketplace
 /config
 ```
 
-ثم اختر أحد أساليب Brain Fog Friendly.
+ثم:
+
+1. ابحث عن إعداد `Output style` (أسلوب الإخراج).
+2. اضغط Enter لفتح قائمة أساليب الإخراج.
+3. استخدم مفاتيح الأسهم للانتقال إلى أحد أساليب Brain Fog Friendly (مثل `Brain Fog Friendly` أو `صديق لضباب الدماغ`).
+4. اضغط Enter لاختياره.
+5. اضغط Esc للخروج من الإعدادات. الأسلوب مفعّل الآن.
 
 ## التطوير المحلي
 

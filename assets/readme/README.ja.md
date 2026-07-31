@@ -63,7 +63,13 @@ Claude Code の設定を開きます：
 /config
 ```
 
-その後、Brain Fog Friendly の出力スタイルを一つ選びます。
+その後：
+
+1. `Output style`（出力スタイル）の設定を見つけます。
+2. Enter を押して出力スタイルの一覧を開きます。
+3. 矢印キーで Brain Fog Friendly のスタイル（例：`Brain Fog Friendly` または `ブレインフォグにやさしい`）に移動します。
+4. Enter を押して選択します。
+5. Esc を押して設定を閉じます。これでスタイルが有効になります。
 
 ## ローカル開発
 

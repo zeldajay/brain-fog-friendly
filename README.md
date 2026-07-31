@@ -63,7 +63,13 @@ Open Claude Code config:
 /config
 ```
 
-Then choose one of the Brain Fog Friendly output styles.
+Then:
+
+1. Find the `Output style` setting.
+2. Press Enter to open the list of output styles.
+3. Use the arrow keys to move to one of the Brain Fog Friendly styles (for example `Brain Fog Friendly` or `脑雾友好`).
+4. Press Enter to select it.
+5. Press Esc to leave config. The style is now active.
 
 ## Local development
 

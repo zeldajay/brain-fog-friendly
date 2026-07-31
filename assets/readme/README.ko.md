@@ -63,7 +63,13 @@ Claude Code 설정을 엽니다:
 /config
 ```
 
-그런 다음 Brain Fog Friendly 출력 스타일 중 하나를 선택합니다.
+그런 다음:
+
+1. `Output style`(출력 스타일) 설정을 찾습니다.
+2. Enter를 눌러 출력 스타일 목록을 엽니다.
+3. 화살표 키로 Brain Fog Friendly 스타일 중 하나(예: `Brain Fog Friendly` 또는 `브레인 포그 친화적`)로 이동합니다.
+4. Enter를 눌러 선택합니다.
+5. Esc를 눌러 설정을 닫습니다. 이제 스타일이 적용되었습니다.
 
 ## 로컬 개발
 
