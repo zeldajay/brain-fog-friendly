@@ -1,0 +1,30 @@
+{
+  "name": "brain-fog-friendly",
+  "version": "1.2.0",
+  "description": "Low-cognitive-load response guidance for people with brain fog, attention difficulty, or fatigue.",
+  "author": {
+    "name": "zeldajay",
+    "url": "https://github.com/zeldajay"
+  },
+  "homepage": "https://github.com/zeldajay/brain-fog-friendly",
+  "repository": "https://github.com/zeldajay/brain-fog-friendly",
+  "license": "MIT",
+  "keywords": [
+    "accessibility",
+    "brain-fog",
+    "low-cognitive-load",
+    "output-style"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Brain Fog Friendly",
+    "shortDescription": "Calm, clear, low-cognitive-load responses",
+    "longDescription": "Make responses easier to process with concise conclusions, short paragraphs, gentle language, and clear next steps.",
+    "developerName": "zeldajay",
+    "category": "Productivity",
+    "capabilities": [
+      "Write"
+    ],
+    "websiteURL": "https://github.com/zeldajay/brain-fog-friendly"
+  }
+}
