@@ -1,6 +1,2 @@
-.agents/*
-!.agents/plugins/
-.agents/plugins/*
-!.agents/plugins/marketplace.json
 .claude/
 skills-lock.json
