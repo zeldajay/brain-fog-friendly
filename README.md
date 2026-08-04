@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Brain Fog Friendly is a Claude Code plugin for short, gentle, step-by-step output styles in ten languages.">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Brain Fog Friendly is a Claude Code and Codex plugin for short, gentle, step-by-step responses in ten languages.">
 </p>
 
 # Brain Fog Friendly
 
 English | [中文](./assets/readme/README.zh-CN.md) | [日本語](./assets/readme/README.ja.md) | [Русский](./assets/readme/README.ru.md) | [العربية](./assets/readme/README.ar.md) | [한국어](./assets/readme/README.ko.md) | [Español](./assets/readme/README.es.md) | [Français](./assets/readme/README.fr.md) | [Deutsch](./assets/readme/README.de.md) | [Português do Brasil](./assets/readme/README.pt-BR.md)
 
-A Claude Code marketplace plugin for low-cognitive-load output styles.
+A Claude Code and Codex marketplace plugin for low-cognitive-load responses.
 
-It helps Claude answer with less pressure, less density, and clearer next steps.
+It helps Claude and Codex answer with less pressure, less density, and clearer next steps.
 
 It is for people with brain fog, attention difficulty, fatigue, overwhelm, or anyone who prefers calm, step-by-step replies.
 
 ## What you get
 
-Ten localized output styles:
+Ten localized response styles. They are available as Claude Code output styles and through a Codex configuration skill.
 
 | Language | Output style |
 | --- | --- |
@@ -31,7 +31,7 @@ Ten localized output styles:
 
 ## What the style changes
 
-It asks Claude to:
+It asks Claude or Codex to:
 
 - put the conclusion and next step first
 - use short sentences
@@ -42,6 +42,8 @@ It asks Claude to:
 - offer simple choices when the user is stuck: continue, simplify, or pause
 
 ## Install
+
+### Claude Code
 
 Add this repository as a Claude Code marketplace:
 
@@ -55,7 +57,33 @@ Then install the plugin:
 claude plugin install brain-fog-friendly@brain-fog-friendly-marketplace
 ```
 
+### ChatGPT desktop app
+
+1. Open the ChatGPT desktop app.
+2. Open **Plugins**.
+3. Open the **Create ▾** menu in the top-right corner and select **Add plugin marketplace**. Enter `zeldajay/brain-fog-friendly` in **Source**, then select **Add marketplace**.
+4. Open the **Personal** tab on the Plugins page. Open **Brain Fog Friendly** and select the plus button to install it.
+5. Start a new chat so the bundled skill is loaded.
+
+See the official [ChatGPT and Codex plugins guide](https://learn.chatgpt.com/docs/plugins) for supported surfaces and plugin management.
+
+### Codex CLI
+
+Add this repository as a Codex marketplace:
+
+```bash
+codex plugin marketplace add zeldajay/brain-fog-friendly
+```
+
+Then install the plugin:
+
+```bash
+codex plugin add brain-fog-friendly@brain-fog-friendly-marketplace
+```
+
 ## Use
+
+### Claude Code
 
 Open Claude Code config:
 
@@ -71,7 +99,27 @@ Then:
 4. Press Enter to select it.
 5. Press Esc to leave config. The style is now active.
 
+### Codex CLI
+
+Explicitly invoke the configuration skill:
+
+```text
+$brain-fog-friendly
+```
+
+Codex displays a numbered list containing ten languages and a disable option. Reply with the number, language name, or language code.
+
+### ChatGPT desktop app
+
+Start a new chat, type `@`, and choose the **Brain Fog Friendly** skill. Then reply to the numbered language list with a number, language name, or language code.
+
+The skill adds or replaces a managed `brain-fog-friendly` block in the global `~/.codex/AGENTS.md`. Choosing disable removes only that block and preserves all other global instructions.
+
+Start a new Codex thread after enabling, switching, or disabling the style so Codex reloads the global instructions.
+
 ## Local development
+
+### Claude Code
 
 Add this repository as a local marketplace:
 
@@ -90,6 +138,20 @@ Validate the plugin:
 ```bash
 claude plugin validate .
 claude plugin validate ./output-styles/brain-fog-friendly
+```
+
+### Codex
+
+Add this checkout as a local marketplace:
+
+```bash
+codex plugin marketplace add .
+```
+
+Install from the local marketplace:
+
+```bash
+codex plugin add brain-fog-friendly@brain-fog-friendly-marketplace
 ```
 
 ## License

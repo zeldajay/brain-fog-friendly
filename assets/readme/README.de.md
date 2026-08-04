@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="./hero.svg" width="100%" alt="Brain Fog Friendly ist ein Claude Code Plugin für kurze, freundliche und schrittweise Ausgabestile in zehn Sprachen.">
+  <img src="./hero.de.svg" width="100%" alt="Brain Fog Friendly ist ein Claude Code und Codex Plugin für kurze, freundliche und schrittweise Antworten in zehn Sprachen.">
 </p>
 
 # Brain-Fog-freundlich
 
 [English](../../README.md) | [中文](./README.zh-CN.md) | [日本語](./README.ja.md) | [Русский](./README.ru.md) | [العربية](./README.ar.md) | [한국어](./README.ko.md) | [Español](./README.es.md) | [Français](./README.fr.md) | Deutsch | [Português do Brasil](./README.pt-BR.md)
 
-Ein Claude Code marketplace Plugin für Ausgabestile mit niedriger kognitiver Belastung.
+Ein Claude Code und Codex marketplace Plugin für Antworten mit niedriger kognitiver Belastung.
 
-Es hilft Claude, mit weniger Druck, weniger Dichte und klareren nächsten Schritten zu antworten.
+Es hilft Claude und Codex, mit weniger Druck, weniger Dichte und klareren nächsten Schritten zu antworten.
 
 Es ist für Menschen mit Brain Fog, Aufmerksamkeitsproblemen, Müdigkeit, Überforderung oder für alle, die ruhige Antworten Schritt für Schritt bevorzugen.
 
 ## Was du bekommst
 
-Zehn lokalisierte Ausgabestile:
+Zehn lokalisierte Antwortstile. Sie sind als Claude Code Ausgabestile und über einen Codex-Konfigurations-Skill verfügbar.
 
 | Sprache | Ausgabestil |
 | --- | --- |
@@ -31,7 +31,7 @@ Zehn lokalisierte Ausgabestile:
 
 ## Was der Stil ändert
 
-Er bittet Claude darum:
+Er bittet Claude oder Codex darum:
 
 - Fazit und nächsten Schritt zuerst zu nennen
 - kurze Sätze zu verwenden
@@ -42,6 +42,8 @@ Er bittet Claude darum:
 - wenn die Person feststeckt, einfache Optionen anzubieten: fortfahren, einfacher erklären oder pausieren
 
 ## Installation
+
+### Claude Code
 
 Füge dieses Repository als Claude Code marketplace hinzu:
 
@@ -55,7 +57,33 @@ Installiere dann das Plugin:
 claude plugin install brain-fog-friendly@brain-fog-friendly-marketplace
 ```
 
+### ChatGPT Desktop-App
+
+1. Öffne die ChatGPT Desktop-App.
+2. Öffne **Plug-ins**.
+3. Öffne oben rechts das Menü **Erstellen ▾** und wähle **Plug-in-Marktplatz hinzufügen**. Gib unter **Quelle** `zeldajay/brain-fog-friendly` ein und wähle dann **Marktplatz hinzufügen**.
+4. Öffne auf der Plug-in-Seite die Registerkarte **Persönlich**. Öffne **Brain Fog Friendly** und wähle die Plus-Schaltfläche zur Installation.
+5. Starte einen neuen Chat, damit der enthaltene Skill geladen wird.
+
+Weitere Informationen zu unterstützten Oberflächen und zur Plugin-Verwaltung findest du im offiziellen [Leitfaden für ChatGPT- und Codex-Plugins](https://learn.chatgpt.com/docs/plugins).
+
+### Codex CLI
+
+Füge dieses Repository als Codex marketplace hinzu:
+
+```bash
+codex plugin marketplace add zeldajay/brain-fog-friendly
+```
+
+Installiere dann das Plugin:
+
+```bash
+codex plugin add brain-fog-friendly@brain-fog-friendly-marketplace
+```
+
 ## Nutzung
+
+### Claude Code
 
 Öffne die Claude Code Konfiguration:
 
@@ -71,7 +99,27 @@ Dann:
 4. Drücke Enter, um ihn auszuwählen.
 5. Drücke Esc, um die Konfiguration zu verlassen. Der Stil ist jetzt aktiv.
 
+### Codex CLI
+
+Rufe den Konfigurations-Skill ausdrücklich auf:
+
+```text
+$brain-fog-friendly
+```
+
+Codex zeigt eine nummerierte Liste mit zehn Sprachen und einer Option zum Deaktivieren. Antworte mit der Nummer, dem Sprachnamen oder dem Sprachcode.
+
+### ChatGPT Desktop-App
+
+Starte einen neuen Chat, gib `@` ein und wähle den Skill **Brain Fog Friendly**. Antworte dann mit einer Nummer, einem Sprachnamen oder einem Sprachcode auf die Sprachliste.
+
+Der Skill fügt in der globalen Datei `~/.codex/AGENTS.md` einen verwalteten `brain-fog-friendly`-Block hinzu oder ersetzt ihn. Beim Deaktivieren wird nur dieser Block entfernt; alle anderen globalen Anweisungen bleiben erhalten.
+
+Starte nach dem Aktivieren, Wechseln oder Deaktivieren einen neuen Codex-Thread, damit Codex die globalen Anweisungen neu lädt.
+
 ## Lokale Entwicklung
+
+### Claude Code
 
 Füge dieses Repository als lokalen marketplace hinzu:
 
@@ -90,6 +138,20 @@ Validiere das Plugin:
 ```bash
 claude plugin validate .
 claude plugin validate ./output-styles/brain-fog-friendly
+```
+
+### Codex
+
+Füge diesen Checkout als lokalen marketplace hinzu:
+
+```bash
+codex plugin marketplace add .
+```
+
+Installiere aus dem lokalen marketplace:
+
+```bash
+codex plugin add brain-fog-friendly@brain-fog-friendly-marketplace
 ```
 
 ## License

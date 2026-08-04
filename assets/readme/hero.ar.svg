@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">صديق لضباب الدماغ</title>
+  <desc id="desc">صورة README هادئة لـ Brain Fog Friendly، إضافة لـ Claude Code وCodex وChatGPT لردود قصيرة ولطيفة وخطوة بخطوة بعشر لغات.</desc>
+
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFDF8"/>
+      <stop offset="1" stop-color="#F5EFE4"/>
+    </linearGradient>
+    <linearGradient id="calm" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#BDE8D6"/>
+      <stop offset="1" stop-color="#91CFBB"/>
+    </linearGradient>
+    <filter id="lift" x="-16%" y="-16%" width="132%" height="132%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#263129" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="30" fill="#F8F3EA"/>
+  <path d="M0 348 C170 318 252 382 394 354 C550 324 596 256 762 284 C928 314 1012 364 1200 326 L1200 420 L0 420 Z" fill="#E5F3EC" opacity="0.76"/>
+
+  <g id="title-block" transform="translate(64 54)">
+    <rect x="0" y="0" width="338" height="34" rx="17" fill="#E8E1F4"/>
+    <text x="20" y="23" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#55496B" letter-spacing="1.1">CLAUDE CODE · CODEX · CHATGPT</text>
+
+    <text x="390" y="96" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="48" font-weight="780" fill="#243028">صديق لضباب</text>
+    <text x="390" y="148" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="48" font-weight="780" fill="#243028">الدماغ</text>
+    <text x="390" y="202" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="25" font-weight="520" fill="#4B5A52">أسلوب رد منخفض العبء المعرفي،</text>
+    <text x="390" y="236" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="25" font-weight="520" fill="#4B5A52">لمساعدة هادئة خطوة بخطوة.</text>
+
+    <g transform="translate(0 300)">
+      <rect x="0" y="0" width="154" height="42" rx="21" fill="#243028"/>
+      <text x="77" y="27" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="18" font-weight="690" fill="#FFFFFF">10 لغات</text>
+      <rect x="170" y="0" width="220" height="42" rx="21" fill="#FFFFFF" stroke="#D8D0C4"/>
+      <text x="280" y="27" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="18" font-weight="650" fill="#3E4A43">توفير الرموز</text>
+    </g>
+  </g>
+
+  <g id="calm-flow" transform="translate(612 48)">
+    <rect x="0" y="0" width="524" height="324" rx="28" fill="url(#paper)" filter="url(#lift)"/>
+    <g transform="translate(36 34)">
+      <text x="452" y="0" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#7B6F62">أسلوب الإخراج</text>
+      <text x="452" y="40" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="28" font-weight="730" fill="#243028">أقل مما تحتاج إلى حمله في ذهنك</text>
+    </g>
+
+    <g transform="translate(36 102)">
+      <circle cx="452" cy="18" r="18" fill="url(#calm)"/>
+      <text x="452" y="25" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#243028">1</text>
+      <text x="410" y="25" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="23" font-weight="650" fill="#243028">الخلاصة أولًا</text>
+      <circle cx="452" cy="82" r="18" fill="#E8E1F4"/>
+      <text x="452" y="89" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#55496B">2</text>
+      <text x="410" y="89" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="23" font-weight="650" fill="#243028">جمل قصيرة</text>
+      <circle cx="452" cy="146" r="18" fill="#F3D3BE"/>
+      <text x="452" y="153" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#6B4938">3</text>
+      <text x="410" y="153" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="23" font-weight="650" fill="#243028">خطوة تالية صغيرة</text>
+    </g>
+
+    <g transform="translate(42 96)">
+      <rect x="0" y="0" width="150" height="42" rx="14" fill="#FFFFFF" stroke="#D8D0C4"/>
+      <text x="132" y="27" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="18" font-weight="680" fill="#243028">العربية</text>
+      <rect x="-18" y="55" width="168" height="42" rx="14" fill="#FFFFFF" stroke="#D8D0C4"/>
+      <text x="0" y="83" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="18" font-weight="680" fill="#243028">English</text>
+      <rect x="0" y="110" width="150" height="42" rx="14" fill="#FFFFFF" stroke="#D8D0C4"/>
+      <text x="18" y="137" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="18" font-weight="680" fill="#243028">中文</text>
+      <rect x="-18" y="165" width="168" height="42" rx="14" fill="#FFFFFF" stroke="#D8D0C4"/>
+      <text x="0" y="193" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="18" font-weight="680" fill="#243028">Español</text>
+    </g>
+  </g>
+</svg>

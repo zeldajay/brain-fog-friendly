@@ -1,0 +1,20 @@
+{
+  "name": "brain-fog-friendly-marketplace",
+  "interface": {
+    "displayName": "Brain Fog Friendly"
+  },
+  "plugins": [
+    {
+      "name": "brain-fog-friendly",
+      "source": {
+        "source": "local",
+        "path": "."
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.0
+
+- Added support for Codex and ChatGPT.
+
 ## 1.1.0
 
 - Added Arabic output style: `صديق لضباب الدماغ`.
