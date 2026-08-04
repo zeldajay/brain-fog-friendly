@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero.svg" width="100%" alt="Brain Fog Friendly ist ein Claude Code und Codex Plugin für kurze, freundliche und schrittweise Antworten in zehn Sprachen.">
+  <img src="./hero.de.svg" width="100%" alt="Brain Fog Friendly ist ein Claude Code und Codex Plugin für kurze, freundliche und schrittweise Antworten in zehn Sprachen.">
 </p>
 
 # Brain-Fog-freundlich

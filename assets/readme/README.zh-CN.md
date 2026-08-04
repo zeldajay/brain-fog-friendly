@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero.svg" width="100%" alt="Brain Fog Friendly 是一个 Claude Code 和 Codex 插件，提供十种语言的简短、温和、分步骤回复。">
+  <img src="./hero.zh-CN.svg" width="100%" alt="Brain Fog Friendly 是一个 Claude Code 和 Codex 插件，提供十种语言的简短、温和、分步骤回复。">
 </p>
 
 # 脑雾友好

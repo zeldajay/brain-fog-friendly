@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero.svg" width="100%" alt="Brain Fog Friendly é um plugin do Claude Code e Codex para respostas curtas, gentis e passo a passo em dez idiomas.">
+  <img src="./hero.pt-BR.svg" width="100%" alt="Brain Fog Friendly é um plugin do Claude Code e Codex para respostas curtas, gentis e passo a passo em dez idiomas.">
 </p>
 
 # Amigável para névoa mental

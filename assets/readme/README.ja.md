@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero.svg" width="100%" alt="Brain Fog Friendly は、短く、穏やかで、段階的な返答を十言語で提供する Claude Code と Codex のプラグインです。">
+  <img src="./hero.ja.svg" width="100%" alt="Brain Fog Friendly は、短く、穏やかで、段階的な返答を十言語で提供する Claude Code と Codex のプラグインです。">
 </p>
 
 # ブレインフォグにやさしい

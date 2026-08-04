@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero.svg" width="100%" alt="Brain Fog Friendly — плагин Claude Code и Codex для коротких, мягких, пошаговых ответов на десяти языках.">
+  <img src="./hero.ru.svg" width="100%" alt="Brain Fog Friendly — плагин Claude Code и Codex для коротких, мягких, пошаговых ответов на десяти языках.">
 </p>
 
 # Дружелюбный к мозговому туману

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero.svg" width="100%" alt="Brain Fog Friendly هو إضافة لـ Claude Code وCodex لردود قصيرة ولطيفة وخطوة بخطوة بعشر لغات.">
+  <img src="./hero.ar.svg" width="100%" alt="Brain Fog Friendly هو إضافة لـ Claude Code وCodex لردود قصيرة ولطيفة وخطوة بخطوة بعشر لغات.">
 </p>
 
 # صديق لضباب الدماغ

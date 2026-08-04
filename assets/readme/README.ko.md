@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero.svg" width="100%" alt="Brain Fog Friendly는 열 가지 언어로 짧고 부드러운 단계별 응답을 제공하는 Claude Code 및 Codex 플러그인입니다.">
+  <img src="./hero.ko.svg" width="100%" alt="Brain Fog Friendly는 열 가지 언어로 짧고 부드러운 단계별 응답을 제공하는 Claude Code 및 Codex 플러그인입니다.">
 </p>
 
 # 브레인 포그 친화적
