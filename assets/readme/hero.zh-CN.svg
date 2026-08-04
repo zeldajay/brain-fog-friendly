@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">Brain Fog Friendly</title>
-  <desc id="desc">A calm README hero for Brain Fog Friendly, a Claude Code, Codex, and ChatGPT plugin for short, gentle, step-by-step responses in ten languages.</desc>
+  <title id="title">脑雾友好</title>
+  <desc id="desc">Brain Fog Friendly 的平静 README 首图，这是一个面向 Claude Code、Codex 和 ChatGPT 的插件，提供十种语言的简短、温和、分步骤回复。</desc>
 
   <defs>
     <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
@@ -23,36 +23,35 @@
     <rect x="0" y="0" width="338" height="34" rx="17" fill="#E8E1F4"/>
     <text x="20" y="23" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#55496B" letter-spacing="1.1">CLAUDE CODE · CODEX · CHATGPT</text>
 
-    <text x="0" y="98" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="56" font-weight="780" fill="#243028">Brain Fog</text>
-    <text x="0" y="158" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="56" font-weight="780" fill="#243028">Friendly</text>
-    <text x="0" y="212" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="25" font-weight="520" fill="#4B5A52">Low-cognitive-load replies</text>
-    <text x="0" y="246" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="25" font-weight="520" fill="#4B5A52">for calm, step-by-step help.</text>
+    <text x="0" y="102" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="58" font-weight="780" fill="#243028">脑雾友好</text>
+    <text x="0" y="178" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="25" font-weight="520" fill="#4B5A52">低认知负荷回复风格，</text>
+    <text x="0" y="212" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="25" font-weight="520" fill="#4B5A52">让帮助更平静、更分步骤。</text>
 
     <g transform="translate(0 300)">
       <rect x="0" y="0" width="154" height="42" rx="21" fill="#243028"/>
-      <text x="24" y="27" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="18" font-weight="690" fill="#FFFFFF">10 languages</text>
+      <text x="24" y="27" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="18" font-weight="690" fill="#FFFFFF">10 种语言</text>
       <rect x="170" y="0" width="220" height="42" rx="21" fill="#FFFFFF" stroke="#D8D0C4"/>
-      <text x="194" y="27" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="18" font-weight="650" fill="#3E4A43">one small step</text>
+      <text x="194" y="27" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="18" font-weight="650" fill="#3E4A43">一次一小步</text>
     </g>
   </g>
 
   <g id="calm-flow" transform="translate(612 48)">
     <rect x="0" y="0" width="524" height="324" rx="28" fill="url(#paper)" filter="url(#lift)"/>
     <g transform="translate(36 34)">
-      <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#7B6F62">OUTPUT STYLE</text>
-      <text x="0" y="40" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="28" font-weight="730" fill="#243028">Less to hold in your head</text>
+      <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#7B6F62">输出风格</text>
+      <text x="0" y="40" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="28" font-weight="730" fill="#243028">少一点负担，多一点清晰</text>
     </g>
 
     <g transform="translate(36 102)">
       <circle cx="18" cy="18" r="18" fill="url(#calm)"/>
       <text x="13" y="25" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#243028">1</text>
-      <text x="56" y="25" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="23" font-weight="650" fill="#243028">Conclusion first</text>
+      <text x="56" y="25" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="23" font-weight="650" fill="#243028">结论先行</text>
       <circle cx="18" cy="82" r="18" fill="#E8E1F4"/>
       <text x="13" y="89" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#55496B">2</text>
-      <text x="56" y="89" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="23" font-weight="650" fill="#243028">Short sentences</text>
+      <text x="56" y="89" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="23" font-weight="650" fill="#243028">短句短段</text>
       <circle cx="18" cy="146" r="18" fill="#F3D3BE"/>
       <text x="13" y="153" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#6B4938">3</text>
-      <text x="56" y="153" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="23" font-weight="650" fill="#243028">Next tiny action</text>
+      <text x="56" y="153" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans, Noto Sans, Arial, sans-serif" font-size="23" font-weight="650" fill="#243028">下一步更小</text>
     </g>
 
     <g transform="translate(326 96)">
