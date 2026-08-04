@@ -161,7 +161,12 @@ def main() -> int:
     language_code = args.language
     language_label = dict(LANGUAGES)[language_code]
     plugin_root = Path(__file__).resolve().parents[3]
-    source_path = plugin_root / f"brain-fog-friendly-{language_code}.md"
+    source_path = (
+        plugin_root
+        / "output-styles"
+        / "brain-fog-friendly"
+        / f"brain-fog-friendly-{language_code}.md"
+    )
     if not source_path.is_file():
         raise RuntimeError(f"Missing language file: {source_path}")
 

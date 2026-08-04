@@ -9,13 +9,13 @@
   "homepage": "https://github.com/zeldajay/brain-fog-friendly",
   "repository": "https://github.com/zeldajay/brain-fog-friendly",
   "license": "MIT",
+  "skills": "./skills/",
   "keywords": [
     "accessibility",
     "brain-fog",
     "low-cognitive-load",
     "output-style"
   ],
-  "skills": "./skills/",
   "interface": {
     "displayName": "Brain Fog Friendly",
     "shortDescription": "Calm, clear, low-cognitive-load responses",
@@ -25,6 +25,9 @@
     "capabilities": [
       "Write"
     ],
-    "websiteURL": "https://github.com/zeldajay/brain-fog-friendly"
+    "websiteURL": "https://github.com/zeldajay/brain-fog-friendly",
+    "defaultPrompt": [
+      "Use $brain-fog-friendly to choose a response language or disable the style."
+    ]
   }
 }

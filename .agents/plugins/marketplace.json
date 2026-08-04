@@ -8,7 +8,7 @@
       "name": "brain-fog-friendly",
       "source": {
         "source": "local",
-        "path": "./output-styles/brain-fog-friendly"
+        "path": "."
       },
       "policy": {
         "installation": "AVAILABLE",
