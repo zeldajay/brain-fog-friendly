@@ -27,7 +27,7 @@
     ],
     "websiteURL": "https://github.com/zeldajay/brain-fog-friendly",
     "defaultPrompt": [
-      "Use $brain-fog-friendly to choose a response language or disable the style."
+      "Use $brain-fog-friendly to choose or disable output style."
     ]
   }
 }
